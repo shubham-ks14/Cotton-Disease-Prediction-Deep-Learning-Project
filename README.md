@@ -12,7 +12,8 @@ Deep Learning technique for image-based cotton plant disease prediction
 ## Methods
 ### Dataset 
 * 2000 images for train data and 40 images for test data were used to reduce the computational cost
-* A sample of train and test data is provided in sample folder.
+* Sample images from train data of all 4 classes is provided sample folder.
+* Entire dataset is not shared sighting the rights of data but can be shared on request and for study purpose.
 * Each of train and test contains images for above mentioned 4 classes.
 * The default resizing of images of 224 x 224 pixels is used.
 ### Approach
