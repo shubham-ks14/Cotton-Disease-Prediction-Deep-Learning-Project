@@ -31,4 +31,4 @@ Deep Learning technique for image-based cotton plant disease prediction
 
 ## Future Scope
 * Use of other Deep CNN architecture such as VGG16, AlexNet.
-* Deployment in Heroku (PAAS) platform for a complete cotton disease prediction web app.
+* Deployment in PAAS platforms such as Heroku or IAAS like AWS for a complete cotton disease prediction web app.
